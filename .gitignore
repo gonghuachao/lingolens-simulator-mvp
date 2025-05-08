@@ -17,3 +17,4 @@ __pycache__/
 # secrets.toml
 # .env
 # *.json # Be careful not to ignore essential json files
+.streamlit/secrets.toml
