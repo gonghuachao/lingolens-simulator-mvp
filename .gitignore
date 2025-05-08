@@ -1,0 +1,19 @@
+# Python virtual environment
+venv/
+
+# macOS specific files
+.DS_Store
+
+# IDE specific files (Cursor/VSCode)
+.vscode/
+.cursor/
+
+# Temporary files
+temp_audio/
+*.pyc
+__pycache__/
+
+# Secrets / Credentials (add any files you might create)
+# secrets.toml
+# .env
+# *.json # Be careful not to ignore essential json files
